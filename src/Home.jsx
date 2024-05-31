@@ -28,7 +28,7 @@ const Home = () => {
   };
 
   return (
-    <div style={{height:'100vh',backgroundColor:'black'}} className='w-100 ' >
+    <div style={{height:'100vh',backgroundColor:'#96DED1'}} className='w-100 ' >
      <div style={{height:'90px'}} className=' w-100  d-flex align-items-center justify-content-center '>
      <h1 style={{textAlign:'center',color:'black'}}>
        Todo List
